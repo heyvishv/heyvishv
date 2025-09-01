@@ -1,49 +1,52 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;I'm+vishv+prajapati...;This+is+my+profile!&center=true&size=30">
-  </a>
-</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-### Hi there 👋
+###
 
-- 🌱 I’m currently learning, Python, Web Development
-- 👯 I’m looking to collaborate on GitHub, LinkedIn, Instagram, Youtube
-<!--
-- 🤔 I’m looking for help with C-->
-- 📫 How to reach me: [Instagram](https://www.instagram.com/_prateek.official_)
-- ⚡ Hobbies: Content Creation, Coding
-- 📹 My Content: [YouTube](https://youtube.com/geekdude)
-<br />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+###
 
-### Playing Now on Spotify 🎧
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316b6asoazidn7kkda65ajfs6fzm&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+###
 
-<br />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-[![Linkedin: Prateek Kumar](https://img.shields.io/badge/-geeekdude-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/geekdude)](https://linkedin.com/in/geekdude)
-[![GitHub Prateek Kumar](https://img.shields.io/github/followers/geeekdude?label=follow&style=social)](https://github.com/geeekdude)
-![](https://komarev.com/ghpvc/?username=geeekdude&color=blueviolet)
+###
 
-### Languages and Tools:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
-<img align="left" alt="CPP" width="30px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/>
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" alt="CSS 3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<br/><br/><br/>
-
-<h2 align="center">GitHub Analytics</h2>
-<p >
-  <img width="40%" alt="geeekdude's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geeekdude&show_icons=true&hide_border=true&theme=algolia"/>
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geeekdude&layout=compact&langs_count=8&theme=algolia"/>
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=geeekdude&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
-</p>
-
-<p align = "center">
- <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=geeekdude&theme=redical">
-</p> 
+###
