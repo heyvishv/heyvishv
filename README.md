@@ -1,5 +1,5 @@
-<h1 align="center">h1>Hey 👋What's Up?</
-###
+<h1 align="center">h1>Hey 👋What's Up?</###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
