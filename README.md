@@ -19,8 +19,8 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-<h1 align="center">i am vishv prajapati </h1>
+<h1 align="center">Hey there 👋</h1>
+<h1 align="center">I am Vishv Prajapati </h1>
 ###
 
 **Python Learner | AI Video Creator | Visual Storyteller**
@@ -71,7 +71,12 @@ I am a creative developer exploring the intersection of code and cinematic visua
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=000000" height="180" alt="stats graph" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=000000" height="180" alt="languages graph" />
+  </a>
 </div>
 
 ###
