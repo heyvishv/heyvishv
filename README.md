@@ -69,9 +69,8 @@ I am a creative developer exploring the intersection of code and cinematic visua
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyvishv&show_icons=true&theme=dark&hide_border=true&bg_color=000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyvishv&theme=github-dark&hide_border=true&bg_color=000000&line=00ffff&point=ffffff" />
 </div>
 
 <br/>
@@ -92,4 +91,4 @@ I am a creative developer exploring the intersection of code and cinematic visua
 ### ⚡ Fun Facts
 - I am obsessed with **productivity** and strictly curate my reading list with business and psychology books.
 - I have a specific eye for **cinematic, dark-themed aesthetics** in visual media.
-- I enjoy exploring **Vedic Astrology** in my downtime.
+- I have a strong side in **psychology**
