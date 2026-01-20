@@ -69,27 +69,22 @@ I am a creative developer exploring the intersection of code and cinematic visua
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer&text=Building%20with%20Python%20%7C%20AI%20Visuals%20%7C%20Consistency&fontColor=ffffff&fontSize=18" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyvishv&theme=github-dark&hide_border=true&bg_color=000000&line=00ffff&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&bg_color=000000" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyvishv&theme=dark&hide_border=true&background=000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyvishv&layout=compact&theme=dark&hide_border=true&bg_color=000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=5.5" />
 </div>
 
 
