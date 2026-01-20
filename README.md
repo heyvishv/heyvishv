@@ -102,12 +102,33 @@
 
 
 
-<h1 align="center">Hi 👋, I'm YourName</h1>
+![Banner Image](https://placeholder.com/your-dark-cinematic-banner.png)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=3rd+Year+CS+Student;Learning+Systems+%26+Programming;Future+Software+Engineer">
-</p>
+# Hi there, I'm <vishv prajapati>👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue">
-</p>
+**Python Learner | AI Video Creator | Visual Storyteller**
+
+I am a creative developer exploring the intersection of code and cinematic visuals. My passion lies in mastering Python to build interactive tools and leveraging AI to create moody, high-contrast video content.
+
+---
+
+### 🔭 Current Focus
+- **Learning:** Deep diving into **Python** programming.
+- **Building:** Currently developing a **GUI in python** to refine my logic and skills.
+- **Creating:** Launching a YouTube channel focused on **AI-generated cinematic videos** (specializing in dark-themed animal aesthetics).
+
+### 🛠️ Tech & Tools
+| Development | Creative / AI |
+| :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white) |
+| **Git & GitHub** | **Veo / AI Video Gen** |
+
+### ⚡ Fun Facts
+- I am obsessed with **productivity** and strictly curate my reading list with business and psychology books.
+- I have a specific eye for **cinematic, dark-themed aesthetics** in visual media.
+- I enjoy exploring **Vedic Astrology** in my downtime.
+
+---
+
+[<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='YouTube' />](https://youtube.com/your-channel-link)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' />](https://linkedin.com/in/your-profile)
