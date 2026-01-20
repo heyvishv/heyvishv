@@ -71,8 +71,9 @@ I am a creative developer exploring the intersection of code and cinematic visua
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000" alt="GitHub streak stats" />
 </div>
+
 
 ###
 
