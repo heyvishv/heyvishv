@@ -104,7 +104,7 @@
 
 ![Banner Image](https://placeholder.com/your-dark-cinematic-banner.png)
 
-# Hi there, I'm <vishv prajapati>👋
+# Hi there, I'm vishv prajapati👋
 
 **Python Learner | AI Video Creator | Visual Storyteller**
 
@@ -115,13 +115,13 @@ I am a creative developer exploring the intersection of code and cinematic visua
 ### 🔭 Current Focus
 - **Learning:** Deep diving into **Python** programming.
 - **Building:** Currently developing a **GUI in python** to refine my logic and skills.
-- **Creating:** Launching a YouTube channel focused on **AI-generated cinematic videos** (specializing in dark-themed animal aesthetics).
+- **Creating:** Launching a YouTube channel focused on **AI-generated cinematic videos**
 
 ### 🛠️ Tech & Tools
 | Development | Creative / AI |
 | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white) |
-| **Git & GitHub** | **Veo / AI Video Gen** |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Git & GitHub** |
 
 ### ⚡ Fun Facts
 - I am obsessed with **productivity** and strictly curate my reading list with business and psychology books.
