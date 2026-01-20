@@ -69,9 +69,8 @@ I am a creative developer exploring the intersection of code and cinematic visua
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="GitHub stats" />
 </div>
 
 
